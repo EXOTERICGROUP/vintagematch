@@ -79,7 +79,7 @@ return array(
 			'host'     => 'localhost',
 			'database' => 'database',
 			'username' => 'root',
-			'password' => '',
+			'password' => 'tdm51776apL',
 			'prefix'   => '',
 		),
 
